@@ -1,0 +1,15 @@
+for gulp css/js task automation
+
+
+do the git bash and install all the task from gulpfile.js, in the same manner like this ::
+	npm install gulp
+	npm install gulp-uglify
+	npm install gulp-ruby-sass
+	npm install gulp-combine-mq
+	npm install gulp-watch
+
+
+and serve like this
+	gulp watch
+
+your automation has been started. 
